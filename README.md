@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm dev vats</h1>
 <h3 align="center">A passionate Data/Business analyst from India</h3>
 
